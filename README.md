@@ -1,24 +1,24 @@
 # Adentan-Municipal-BECE-Performance-for-2022-2024
 # Table of Content
--  [Overview](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#overview)
+-  [Overview](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/blob/main/README.md#overview)
 
--  [Project Objectives](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#project-objectives)
+-  [Project Objectives](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/blob/main/README.md#project-objectives)
 
--  [Data Description](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#dataset-description)
+-  [Data Description](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/blob/main/README.md#dataset-description)
 
--  [Tools Used & Data Cleaning](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#tools-used)
+-  [Tools Used & Data Cleaning](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/blob/main/README.md#tools-used)
 
--  [Dashboard](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#dashboard)
+-  [Dashboard](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/blob/main/README.md#dashboard)
 
--  [Key Features](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#key-features)
+-  [Key Features](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/blob/main/README.md#key-features)
 
--  [Policy Projection & Re-sit Impact](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#policy-projection--re-sit-impact)
+-  [Policy Projection & Re-sit Impact](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/blob/main/README.md#policy-projection--re-sit-impact)
 
--  [Strategic Recommendations](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#strategic-recommendations)
+-  [Strategic Recommendations](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/blob/main/README.md#strategic-recommendations)
 
--  [Conclusion](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#conclusions)
+-  [Conclusion](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/blob/main/README.md#conclusions)
 
--  [Future Improvements](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#future-improvements)
+-  [Future Improvements](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/blob/main/README.md#future-improvements)
 
 # Overview
 The BECE is a major national exam in Ghana that determines student placement into Senior High School (SHS). In recent years, performance challenges especially in Mathematics, Science, and English have sparked national concern.
