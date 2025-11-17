@@ -1,4 +1,25 @@
 # Adentan-Municipal-BECE-Performance-for-2022-2024
+# Table of Content
+-  [Overview](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#overview)
+
+-  [Project Objectives](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#project-objectives)
+
+-  [Data Description](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#dataset-description)
+
+-  [Tools Used & Data Cleaning](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#tools-used)
+
+-  [Dashboard](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#dashboard)
+
+-  [Key Features](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#key-features)
+
+-  [Policy Projection & Re-sit Impact](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#policy-projection--re-sit-impact)
+
+-  [Strategic Recommendations](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#strategic-recommendations)
+
+-  [Conclusion](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#conclusions)
+
+-  [Future Improvements](https://github.com/cadah2024/Adentan-Municipal-BECE-Performance-for-2022-2024/edit/main/README.md#future-improvements)
+
 # Overview
 The BECE is a major national exam in Ghana that determines student placement into Senior High School (SHS). In recent years, performance challenges especially in Mathematics, Science, and English have sparked national concern.
 The new re-sit policy introduced by WAEC allows candidates to retake the BECE, which could reshape performance trends and SHS transition rates.
@@ -20,7 +41,7 @@ And finally, the Policy Projection will estimate how many candidates may benefit
 -  Excel (For Data Cleaning)
 -  Power BI (For Visualization and Chart Creation)
 -  Git/GitHub (For Documentations)
-## Data Cleaning
+### Data Cleaning
 -  Remove duplicates
 
 -  Handle missing values
@@ -34,7 +55,7 @@ And finally, the Policy Projection will estimate how many candidates may benefit
 <img width="1167" height="660" alt="Screenshot 2025-11-17 085058" src="https://github.com/user-attachments/assets/359a4a37-d689-4fe6-b2c4-822e5750d0c7" />
 
 # Key Features 
-## Overall Performance 
+### Overall Performance 
 
 -  87% Passed, 13% Failed among 5,952 candidates.
   
@@ -45,7 +66,7 @@ And finally, the Policy Projection will estimate how many candidates may benefit
 <img width="465" height="233" alt="Screenshot 2025-11-17 103736" src="https://github.com/user-attachments/assets/f96cd0db-7f7b-49a7-8c5c-865940498648" />
 <img width="412" height="244" alt="Screenshot 2025-11-17 103757" src="https://github.com/user-attachments/assets/81ea2e2a-1149-4334-be44-62789f19874a" />
 
-## Gender Trends
+### Gender Trends
 
 -  55% of Female candidates passed Slightly outperformed 45% of the Male candidates
 
@@ -54,7 +75,7 @@ And finally, the Policy Projection will estimate how many candidates may benefit
 <img width="479" height="244" alt="Screenshot 2025-11-17 104459" src="https://github.com/user-attachments/assets/7f9928df-ebaf-4aa8-9b54-9c47d8132b6d" /> 
 <img width="542" height="323" alt="Screenshot 2025-11-17 104548" src="https://github.com/user-attachments/assets/276e2932-ceb5-4d3e-8fc0-ce63d6b99bb5" />
 
-## Subject Analysis
+### Subject Analysis
 
 -  **Top Performing Subjects(),** Religious and Moral Education and ICT (Information Communication Technology)
 
@@ -64,13 +85,13 @@ And finally, the Policy Projection will estimate how many candidates may benefit
 
 # Policy Projection & Re-sit Impact
 
-## Observations
+### Observations
 
 -  Historical failure data suggests 13% of candidates could benefit from the resit policy.
 
 -  Projected Resit Candidates : approximately 800 students annually in at least one subject.
 
-## Implications
+### Implications
 
 -  Focused support programs (tutorials, remedial classes) can significantly reduce failure rates in core subjects.
 
